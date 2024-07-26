@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BlueTootApp.Views.BluetoothManager"
+             Title="Bluetooth Configuration">
+    <StackLayout>
+        <FlexLayout JustifyContent="SpaceAround" AlignContent="Center" Margin="20">
+            <Button x:Name="TurnON" Text="Turn ON" BackgroundColor="LightGreen" TextColor="White" Clicked="TurnOn_Clicked" MaximumWidthRequest="150"></Button>
+            <Button Text="Show Device" BackgroundColor="Beige" TextColor="Black"  Clicked="ShowDevice_Clicked" MaximumWidthRequest="150"></Button>
+        </FlexLayout>
+        <Grid Padding="10" BackgroundColor="LightGray">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Text="Id" FontAttributes="Bold" />
+            <Label Grid.Column="1" Text="Name" FontAttributes="Bold" />
+            <Label Grid.Column="2" Text="State" FontAttributes="Bold" />
+            <Label Grid.Column="3" Text="Connect" FontAttributes="Bold" />
+        </Grid>
+
+
+        <CollectionView x:Name="DeviceList" IsVisible="False"  ItemsSource="{Binding BluetoothInfo}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid  Padding="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2*" />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Text="{Binding Id}"  FontAttributes="Bold" />
+                        <Label Grid.Column="1" Text="{Binding Name}" FontAttributes="Bold" />
+                        <Label Grid.Column="2" Text="{Binding State}"  FontAttributes="Bold"/>
+                        <Button Grid.Column="3" MaximumWidthRequest="90" MaximumHeightRequest="50" FontSize="Micro"  Text="Connect"></Button>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </StackLayout>
+ 
+
+</ContentPage>

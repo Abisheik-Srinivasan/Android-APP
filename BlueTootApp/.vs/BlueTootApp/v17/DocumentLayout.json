@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\views\\bluetoothmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:views\\bluetoothmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\bluetootapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:bluetootapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|c:\\users\\abish\\source\\repos\\bluetootapp\\views\\bluetoothmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41F86278-7346-4B75-8DD6-A040846595C3}|BlueTootApp.csproj|solutionrelative:views\\bluetoothmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T14:25:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BluetoothManager.xaml",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\BluetoothManager.xaml",
+              "RelativeDocumentMoniker": "Views\\BluetoothManager.xaml",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\BluetoothManager.xaml",
+              "RelativeToolTip": "Views\\BluetoothManager.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T14:25:36.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:24:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlueTootApp",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\BlueTootApp.csproj",
+              "RelativeDocumentMoniker": "BlueTootApp.csproj",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\BlueTootApp.csproj",
+              "RelativeToolTip": "BlueTootApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T14:17:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BluetoothManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\BluetoothManager.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BluetoothManager.xaml.cs",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\BluetoothManager.xaml.cs",
+              "RelativeToolTip": "Views\\BluetoothManager.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:17:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abish\\source\\repos\\BlueTootApp\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:17:21.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
